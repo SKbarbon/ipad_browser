@@ -1,0 +1,99 @@
+[
+  {
+    "nodes" : [
+      {
+        "nodes" : [
+
+        ],
+        "frame" : "{{84, 68}, {150, 32}}",
+        "class" : "Label",
+        "attributes" : {
+          "font_size" : 18,
+          "frame" : "{{85, 224}, {150, 32}}",
+          "uuid" : "48419C5B-525A-408D-B27B-5E0F5D1758A0",
+          "class" : "Label",
+          "alignment" : "center",
+          "text" : "Notifications",
+          "name" : "label1",
+          "font_name" : "<System>"
+        },
+        "selected" : false
+      },
+      {
+        "nodes" : [
+
+        ],
+        "frame" : "{{96, 439}, {126, 41}}",
+        "class" : "Button",
+        "attributes" : {
+          "border_width" : 0,
+          "frame" : "{{120, 224}, {80, 32}}",
+          "title" : "OK",
+          "uuid" : "9DDDB080-AAFD-4A0D-8396-02FFE8C95B75",
+          "background_color" : "RGBA(0.847826,0.847826,1.000000,1.000000)",
+          "class" : "Button",
+          "corner_radius" : 12,
+          "name" : "button1",
+          "font_size" : 15
+        },
+        "selected" : false
+      },
+      {
+        "nodes" : [
+
+        ],
+        "frame" : "{{20, 108}, {278, 291}}",
+        "class" : "TextView",
+        "attributes" : {
+          "flex" : "WH",
+          "font_size" : 17,
+          "editable" : false,
+          "frame" : "{{60, 140}, {200, 200}}",
+          "spellchecking_type" : "default",
+          "class" : "TextView",
+          "uuid" : "75358FFD-F2DF-4E6B-B4AE-F1AAE01CDABF",
+          "alignment" : "left",
+          "autocorrection_type" : "default",
+          "name" : "label2",
+          "font_name" : "<System>"
+        },
+        "selected" : false
+      },
+      {
+        "nodes" : [
+
+        ],
+        "frame" : "{{0, 399}, {320, 39}}",
+        "class" : "TextView",
+        "attributes" : {
+          "uuid" : "E2048A44-0553-4634-AA87-8FA3C534C283",
+          "font_size" : 17,
+          "background_color" : "RGBA(0.913043,1.000000,1.000000,1.000000)",
+          "frame" : "{{60, 140}, {200, 200}}",
+          "tint_color" : "RGBA(0.000000,0.000000,0.000000,1.000000)",
+          "editable" : true,
+          "alignment" : "left",
+          "autocorrection_type" : "default",
+          "text_color" : "RGBA(0.000000,0.000000,0.000000,1.000000)",
+          "font_name" : "<System>",
+          "spellchecking_type" : "default",
+          "class" : "TextView",
+          "name" : "textview1",
+          "flex" : "WH"
+        },
+        "selected" : false
+      }
+    ],
+    "frame" : "{{0, 0}, {320, 480}}",
+    "class" : "View",
+    "attributes" : {
+      "tint_color" : "RGBA(0.000000,0.478000,1.000000,1.000000)",
+      "enabled" : true,
+      "border_color" : "RGBA(0.000000,0.000000,0.000000,1.000000)",
+      "background_color" : "RGBA(1.000000,1.000000,1.000000,1.000000)",
+      "name" : "",
+      "flex" : ""
+    },
+    "selected" : false
+  }
+]

@@ -1,0 +1,92 @@
+[
+  {
+    "nodes" : [
+      {
+        "nodes" : [
+
+        ],
+        "frame" : "{{86, 16}, {150, 32}}",
+        "class" : "Label",
+        "attributes" : {
+          "name" : "label1",
+          "frame" : "{{85, 224}, {150, 32}}",
+          "uuid" : "A38188C9-30B8-4180-AE39-D7D0BE974450",
+          "class" : "Label",
+          "alignment" : "center",
+          "text" : "MORE",
+          "font_size" : 18,
+          "font_name" : "<System>"
+        },
+        "selected" : false
+      },
+      {
+        "nodes" : [
+
+        ],
+        "frame" : "{{46, 100}, {231, 45}}",
+        "class" : "Button",
+        "attributes" : {
+          "border_width" : 0,
+          "frame" : "{{120, 224}, {80, 32}}",
+          "tint_color" : "RGBA(0.000000,0.000000,0.000000,1.000000)",
+          "title" : "Developer_mode - beta",
+          "uuid" : "55124412-2329-4586-8ACD-DD78E1C5A99A",
+          "background_color" : "RGBA(0.803922,0.870588,1.000000,1.000000)",
+          "class" : "Button",
+          "corner_radius" : 14,
+          "name" : "DEV_MOD",
+          "font_size" : 15
+        },
+        "selected" : false
+      },
+      {
+        "nodes" : [
+
+        ],
+        "frame" : "{{46, 169}, {231, 45}}",
+        "class" : "Button",
+        "attributes" : {
+          "border_width" : 0,
+          "frame" : "{{120, 224}, {80, 32}}",
+          "tint_color" : "RGBA(0.000000,0.000000,0.000000,1.000000)",
+          "title" : "Download html of web - soon",
+          "uuid" : "55124412-2329-4586-8ACD-DD78E1C5A99A",
+          "background_color" : "RGBA(0.803922,0.870588,1.000000,1.000000)",
+          "class" : "Button",
+          "corner_radius" : 14,
+          "name" : "button2",
+          "font_size" : 15
+        },
+        "selected" : false
+      },
+      {
+        "nodes" : [
+
+        ],
+        "frame" : "{{86, 385}, {150, 32}}",
+        "class" : "Label",
+        "attributes" : {
+          "name" : "label2",
+          "frame" : "{{85, 224}, {150, 32}}",
+          "uuid" : "F1AE7D16-C932-4B68-91DE-E459EBCC8E43",
+          "class" : "Label",
+          "alignment" : "center",
+          "text" : "v1.0",
+          "font_size" : 18,
+          "font_name" : "<System>"
+        },
+        "selected" : false
+      }
+    ],
+    "frame" : "{{0, 0}, {320, 480}}",
+    "class" : "View",
+    "attributes" : {
+      "enabled" : true,
+      "background_color" : "RGBA(1.000000,1.000000,1.000000,1.000000)",
+      "tint_color" : "RGBA(0.000000,0.478000,1.000000,1.000000)",
+      "border_color" : "RGBA(0.000000,0.000000,0.000000,1.000000)",
+      "flex" : ""
+    },
+    "selected" : false
+  }
+]
